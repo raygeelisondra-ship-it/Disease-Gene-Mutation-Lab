@@ -1,7 +1,7 @@
 # From Gene Mutation to Disease
 
 
-* **Name:** Ray Gee Jurac Lisondra
+* **Name:** Ray Gee J. Lisondra
 * **Disease / Phenotype:** Familial Hypercholesterolemia (FH)
 * **Gene:** *LDLR* (Low-density lipoprotein receptor)
 * **Reference Transcript Accession:** `NM_000527.5`
