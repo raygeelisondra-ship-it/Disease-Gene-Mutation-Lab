@@ -1,8 +1,7 @@
-# Bioinformatics Laboratory Report: LDLR Variant Analysis
+# From Gene Mutation to Disease
 
-## Metadata
 
-* **Author Name:** Ray Gee Jurac Lisondra
+* **Name:** Ray Gee Jurac Lisondra
 * **Disease / Phenotype:** Familial Hypercholesterolemia (FH)
 * **Gene:** *LDLR* (Low-density lipoprotein receptor)
 * **Reference Transcript Accession:** `NM_000527.5`
@@ -10,7 +9,7 @@
 * **Documented Variant:** `c.1A>T` (`p.Met1Leu`)
 * **ClinVar Accession:** `VCV000250968.23`
 * **Galaxy History Name:** `Lisondra_Familial_hypercholesterolemia_Gene_Mutation_Lab`
-* **Date of Analysis:** May 2026
+* **Date of Analysis:** September 15, 2026
 
 ---
 
