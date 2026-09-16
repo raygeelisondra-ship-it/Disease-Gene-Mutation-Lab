@@ -1,0 +1,109 @@
+########################################
+# Program: needle
+# Rundate: Wed 16 Sep 2026 13:55:08
+# Commandline: needle
+#    -asequence /jetstream2/scratch/main/jobs/79797880/inputs/dataset_72412131-b5bf-43cd-95c0-f426ed35e1f3.dat
+#    -bsequence /jetstream2/scratch/main/jobs/79797880/inputs/dataset_88f19826-26fb-4719-a7db-c517d51b0b80.dat
+#    -outfile /jetstream2/scratch/main/jobs/79797880/outputs/dataset_a281e769-9191-45ac-af9c-e0c93957e323.dat
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -brief yes
+#    -aformat3 srspair
+#    -auto
+# Align_format: srspair
+# Report_file: /jetstream2/scratch/main/jobs/79797880/outputs/dataset_a281e769-9191-45ac-af9c-e0c93957e323.dat
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 87-2669_1
+# 2: 87-2669_1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 861
+# Identity:     860/861 (99.9%)
+# Similarity:   861/861 (100.0%)
+# Gaps:           0/861 ( 0.0%)
+# Score: 4770.0
+# 
+#
+#=======================================
+
+87-2669_1          1 MGPWGWKLRWTVALLLAAAGTAVGDRCERNEFQCQDGKCISYKWVCDGSA     50
+                     :|||||||||||||||||||||||||||||||||||||||||||||||||
+87-2669_1          1 LGPWGWKLRWTVALLLAAAGTAVGDRCERNEFQCQDGKCISYKWVCDGSA     50
+
+87-2669_1         51 ECQDGSDESQETCLSVTCKSGDFSCGGRVNRCIPQFWRCDGQVDCDNGSD    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+87-2669_1         51 ECQDGSDESQETCLSVTCKSGDFSCGGRVNRCIPQFWRCDGQVDCDNGSD    100
+
+87-2669_1        101 EQGCPPKTCSQDEFRCHDGKCISRQFVCDSDRDCLDGSDEASCPVLTCGP    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+87-2669_1        101 EQGCPPKTCSQDEFRCHDGKCISRQFVCDSDRDCLDGSDEASCPVLTCGP    150
+
+87-2669_1        151 ASFQCNSSTCIPQLWACDNDPDCEDGSDEWPQRCRGLYVFQGDSSPCSAF    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+87-2669_1        151 ASFQCNSSTCIPQLWACDNDPDCEDGSDEWPQRCRGLYVFQGDSSPCSAF    200
+
+87-2669_1        201 EFHCLSGECIHSSWRCDGGPDCKDKSDEENCAVATCRPDEFQCSDGNCIH    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+87-2669_1        201 EFHCLSGECIHSSWRCDGGPDCKDKSDEENCAVATCRPDEFQCSDGNCIH    250
+
+87-2669_1        251 GSRQCDREYDCKDMSDEVGCVNVTLCEGPNKFKCHSGECITLDKVCNMAR    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+87-2669_1        251 GSRQCDREYDCKDMSDEVGCVNVTLCEGPNKFKCHSGECITLDKVCNMAR    300
+
+87-2669_1        301 DCRDWSDEPIKECGTNECLDNNGGCSHVCNDLKIGYECLCPDGFQLVAQR    350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+87-2669_1        301 DCRDWSDEPIKECGTNECLDNNGGCSHVCNDLKIGYECLCPDGFQLVAQR    350
+
+87-2669_1        351 RCEDIDECQDPDTCSQLCVNLEGGYKCQCEEGFQLDPHTKACKAVGSIAY    400
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+87-2669_1        351 RCEDIDECQDPDTCSQLCVNLEGGYKCQCEEGFQLDPHTKACKAVGSIAY    400
+
+87-2669_1        401 LFFTNRHEVRKMTLDRSEYTSLIPNLRNVVALDTEVASNRIYWSDLSQRM    450
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+87-2669_1        401 LFFTNRHEVRKMTLDRSEYTSLIPNLRNVVALDTEVASNRIYWSDLSQRM    450
+
+87-2669_1        451 ICSTQLDRAHGVSSYDTVISRDIQAPDGLAVDWIHSNIYWTDSVLGTVSV    500
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+87-2669_1        451 ICSTQLDRAHGVSSYDTVISRDIQAPDGLAVDWIHSNIYWTDSVLGTVSV    500
+
+87-2669_1        501 ADTKGVKRKTLFRENGSKPRAIVVDPVHGFMYWTDWGTPAKIKKGGLNGV    550
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+87-2669_1        501 ADTKGVKRKTLFRENGSKPRAIVVDPVHGFMYWTDWGTPAKIKKGGLNGV    550
+
+87-2669_1        551 DIYSLVTENIQWPNGITLDLLSGRLYWVDSKLHSISSIDVNGGNRKTILE    600
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+87-2669_1        551 DIYSLVTENIQWPNGITLDLLSGRLYWVDSKLHSISSIDVNGGNRKTILE    600
+
+87-2669_1        601 DEKRLAHPFSLAVFEDKVFWTDIINEAIFSANRLTGSDVNLLAENLLSPE    650
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+87-2669_1        601 DEKRLAHPFSLAVFEDKVFWTDIINEAIFSANRLTGSDVNLLAENLLSPE    650
+
+87-2669_1        651 DMVLFHNLTQPRGVNWCERTTLSNGGCQYLCLPAPQINPHSPKFTCACPD    700
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+87-2669_1        651 DMVLFHNLTQPRGVNWCERTTLSNGGCQYLCLPAPQINPHSPKFTCACPD    700
+
+87-2669_1        701 GMLLARDMRSCLTEAEAAVATQETSTVRLKVSSTAVRTQHTTTRPVPDTS    750
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+87-2669_1        701 GMLLARDMRSCLTEAEAAVATQETSTVRLKVSSTAVRTQHTTTRPVPDTS    750
+
+87-2669_1        751 RLPGATPGLTTVEIVTMSHQALGDVAGRGNEKKPSSVRALSIVLPIVLLV    800
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+87-2669_1        751 RLPGATPGLTTVEIVTMSHQALGDVAGRGNEKKPSSVRALSIVLPIVLLV    800
+
+87-2669_1        801 FLCLGVFLLWKNWRLKNINSINFDNPVYQKTTEDEVHICHNQDGYSYPSR    850
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+87-2669_1        801 FLCLGVFLLWKNWRLKNINSINFDNPVYQKTTEDEVHICHNQDGYSYPSR    850
+
+87-2669_1        851 QMVSLEDDVA*    861
+                     |||||||||| 
+87-2669_1        851 QMVSLEDDVA*    861
+
+
+#---------------------------------------
+#---------------------------------------
