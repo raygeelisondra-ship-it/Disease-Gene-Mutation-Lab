@@ -20,5 +20,5 @@ No amino acid insertions, deletions, or premature stop codons were produced with
 
 ---
 
-Alignment Results 
+## Alignment Results 
 The Needle alignment tool demonstrates an exceptionally high degree of sequence conservation between the wild-type and computational `c.1A>T` mutant *LDLR* protein sequences. With an overall identity of 99.9% and zero gap penalties incurred, the quantitative metrics confirm that the single-base substitution is strictly confined to the N-terminal residue position. The alignment evaluation verifies that downstream codons from position 2 through the C-terminus maintain complete sequence integrity, proving that the computational alteration does not induce downstream frameshifts or amino acid stretches of missense variation. Consequently, any functional impairment must arise strictly from the initial nucleotide disruption rather than cumulative structural defects across the body of the polypeptide.
